@@ -1,5 +1,0 @@
-property,type,value,showName
-attack,float,50,攻击力
-HP,float,1000,血量
-defence,float,20,防御力
-MP,float,100,蓝量
