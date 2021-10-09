@@ -1,5 +1,0 @@
-property,type,value,showName
-attack,float,50,伤害
-MP,float,1000,消耗蓝量
-distance,float,20,释放距离
-coldTime,float,10,技能冷却
